@@ -20,8 +20,8 @@
    </PropertyGroup>
    <ItemGroup>
       <PackageReference Include="AlphaFS" Version="2.2.6" />
-      <PackageReference Include="AlphaVSS" Version="2.0.0-alpha0039191117011131" />
-      <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="2.9.6">
+      <PackageReference Include="AlphaVSS" Version="2.0.0-alpha0044" />
+      <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="2.9.7">
          <PrivateAssets>all</PrivateAssets>
          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       </PackageReference>

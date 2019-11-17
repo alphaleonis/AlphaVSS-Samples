@@ -8,6 +8,7 @@
    </PropertyGroup>
    <PropertyGroup>
       <Title>AlphaShadow</Title>
+      <AssemblyVersion>2.0.0.0</AssemblyVersion>
       <Description>Alphaleonis Windows Volume Shadow Copy .NET Sample Project.</Description>
       <Copyright>Copyright (C) Peter Palotas</Copyright>
       <Authors>Peter Palotas</Authors>
@@ -23,8 +24,8 @@
      <None Remove="runtimeconfig.template.json" />
    </ItemGroup>
    <ItemGroup>
-      <PackageReference Include="AlphaVSS" Version="2.0.0-alpha0039191117011131" />
-      <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="2.9.6">
+      <PackageReference Include="AlphaVSS" Version="2.0.0-alpha0044" />
+      <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="2.9.7">
          <PrivateAssets>all</PrivateAssets>
          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       </PackageReference>
