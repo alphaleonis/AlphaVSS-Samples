@@ -9,7 +9,7 @@ This project is an adoption of the official C++ [VShadow Tool Sample](https://do
 
 ## VssBackup
 
-This is a project containing a couple of examples combining [AlphaFS](https://github.com/alphaleonis/AlphaVSS) and [AlphaVSS](https://github.com/alphaleonis/AlphaVSS).
+This is a project containing a couple of examples combining [AlphaFS](https://github.com/alphaleonis/AlphaFS) and [AlphaVSS](https://github.com/alphaleonis/AlphaVSS).
 
 ## SnapshotQuery
 
