@@ -1,6 +1,6 @@
 # AlphaVSS-Samples
 
-This repository contains sample projects for the [AlphaVSS](https://github.com/alphaleonis/AlphaVSS) library.
+This repository contains sample projects for the [AlphaVSS](https://github.com/alphaleonis/AlphaVSS) library.  If you want to report an issue, please do so in the [AlphaVSS](https://github.com/alphaleonis/AlphaVSS) repository.
 
 ## AlphaShadow
 
@@ -14,6 +14,5 @@ This is a project containing a couple of examples combining [AlphaFS](https://gi
 ## SnapshotQuery
 
 This is a very simple example just illustrating how to start with AlphaVSS.
-
 
 
